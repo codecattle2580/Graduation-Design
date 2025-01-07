@@ -1,0 +1,10 @@
+{
+    "db_config":{
+       "protocol":"mysql",
+       "host":"127.0.0.1",
+       "database":"farmhouse",
+       "user":"root",
+       "password":"root",
+       "port":3306
+    }
+}

@@ -1,0 +1,12 @@
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (1, 11, 'admin2', '还行吧', '2023-03-14 09:30:49', 3, 3);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (2, 8, 'admin2', '美食可以，房间不行', '2023-03-14 09:34:05', 3, 5);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (3, 9, 'admin2', '感觉还行，还是很推荐的', '2023-03-14 09:35:41', 4, 4);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (4, 8, 'admin2', '不太行，建议把饭菜搞好吃点\n', '2023-03-14 10:18:07', 3, 4);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (28, 22, 'admin2', '味道很好', '2023-04-10 14:14:27', 5, 5);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (30, 27, 'admin2', '美食美味，客房不太行。。。。。。。', '2023-04-14 21:09:26', 4, 3);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (29, 20, 'admin', '管理员留言', '2023-04-10 14:22:52', 4, 4);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (13, 11, 'admin2', '还行吧', '2023-03-14 10:46:21', 2, 4);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (14, 12, 'admin2', '就那样吧', '2023-03-14 10:51:28', 2, 3);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (15, 14, 'admin2', '就那样吧', '2023-03-14 10:52:38', 2, 3);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (16, 9, 'admin2', 'lol', '2023-03-14 10:53:57', 2, 3);
+INSERT INTO `message`(`id`, `did`, `user`, `message`, `messagetime`, `foodgrade`, `roomgrade`) VALUES (17, 15, 'admin2', '中等', '2023-03-14 10:55:38', 3, 3);

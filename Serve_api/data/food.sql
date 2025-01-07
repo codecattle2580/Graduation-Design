@@ -1,0 +1,12 @@
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (1, '酱瓜鸡', '肉类', '/uploads/1680264806125.jpg', '花生豆酱爆油炸鸡皮，味道非常浓郁的一道下酒小菜，可以当凉菜也可以当热菜，下酒又下饭。', 1);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (2, '粉肠', '荤类', '/uploads/1680265059379.jpg', '这个肠非常有特色，外面的肠衣是酥软的，中间有丰富的馅料，花生、黑木耳、肉、小肠，软嫩鲜香，肥而不腻。', 1);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (3, '浑浆凉粉', '粉类', '/uploads/1680265260706.jpg', '这种绿中带黄的凉粉，其实有两种“浆”做成的，很是独特，融合了绿豆的爽滑和豌豆的香味，凉拌的时候加上大量的芥末，过瘾！', 1);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (4, '锅巴烧鱿鱼', '鱼类', '/uploads/1680265410690.jpg', '一道比较老式的河南菜，以前宴席上经常见到，现在已经很少了，奇妙的组合带来了丰富的口感。', 2);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (5, '土信烧五花肉', '肉类', '/uploads/1680265751060.jpg', '这盘黑乎乎的菜看起来没有颜值，但却是当地一种流传了数百年的美味，食材来自千里之外的东北松林里，在东北名为“土蕈”，也叫它“粘团子”，在河南这个小县城里流行数百年还要得益于明清时代当地的商会，这种来自东北的特产很对当地人胃口，土信有一种非常奇异的香味，吃过以后会给味觉留下永久的记忆。土信烧五花肉应该是一份拌面用的酱料，我给当菜点了一盘。', 2);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (6, '油炸大虾', '鱼类', '/uploads/1680265781327.jpg', '孩子喜欢吃大虾，一大虾的个头超级大，吃着还是挺实惠的。', 2);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (7, '爆炒龙虾', '肉类', '/uploads/1680265796414.jpg', '12314', 3);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (15, '龙虾', '海鲜', '/uploads/1680265949676.jpg', '真的美味龙虾', 30);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (14, '炒粉', '粉', '/uploads/1680265978466.jpg', '炒河粉', 26);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (16, '虾', '荤', '/uploads/1680335829643.jpg', '1231551', 29);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (17, 'xia', '荤', '/uploads/1680487658454.jpg', '美味xia', 23);
+INSERT INTO `food`(`mid`, `mname`, `mtype`, `mpic`, `mflavour`, `nid`) VALUES (18, '测试', '测试', '/uploads/1681486187551.jpg', '测试', 32);
