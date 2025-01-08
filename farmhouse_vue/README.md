@@ -1,24 +1,22 @@
-# farmhouse_vue
+# Serve_api
 
-## Project setup
+## 安装依赖包 
 ```
-yarn install
+npm install
+```
+## 安装nodejs
+```
+npm install node
+```
+## 安装 必要的包
+```
+npm install express morgan cookie-parser
+```
+## 运行项目
+```
+npm start 启动项目
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
